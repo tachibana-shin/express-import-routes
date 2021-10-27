@@ -1,3 +1,5 @@
+> This package is outdated and no longer maintained. please use [express-fw](https://github.com/tachibana-shin/express-fw) package instead
+
 # express-import-routes
 
 This plugin will remove the way you think about importing routers for expressjs
